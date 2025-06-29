@@ -25,6 +25,10 @@ I'm an indie full-stack developer and content creator building my version of the
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/WilliamAlsip" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/af3ae505-c0f2-4077-a1d3-9be80721fcce/thumbnail" >
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WilliamAlsip/WilliamAlsip/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WilliamAlsip/WilliamAlsip/output/github-snake.svg" />
